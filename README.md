@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FrankSwagh
+- 👋 Hi, I’m  Francisco Cabrera @FrankSwagh
 - 👀 I’m interested in VR, AR and AI 
 - 🌱 I’m currently learning Javascript ES9, HTML, CSS3, NodeJS and Python
 - 💞️ I’m looking to collaborate on (Still to be decided)
